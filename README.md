@@ -16,6 +16,15 @@
 - Climate science
 - Music industry
 
+### Interests:
+- Blockchain Technology
+- Audio Technology
+- Mechanical Physics
+- Music
+- Freeride Skiing
+- Mountain Biking
+- Rock Climbing
+
 ### <center>**My favorite tools right now:** </center>
 
 <center>
@@ -24,4 +33,7 @@
 
 </center>
 
+
+
+### You can contact me here, or at:
 <a href="https://www.linkedin.com/in/hough-lab/"> <img src="https://content.linkedin.com/content/dam/me/business/en-us/amp/brand-site/v2/bg/LI-Logo.svg.original.svg" ></a>
