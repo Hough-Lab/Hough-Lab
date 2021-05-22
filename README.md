@@ -8,7 +8,7 @@
 
 ### Currently working on:
 
-- tuneOut - music identification extension for Chrome https://github.com/Hough-Lab/tuneOut
+- tuneOut - music identification extension for Chrome https://bit.ly/tuneOut
 - isonode - Cardano blockchain staking pool *LAUNCHING MAY 2021*
 
 ### Background:
