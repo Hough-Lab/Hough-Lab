@@ -9,7 +9,7 @@
 ### Currently working on:
 
 - tuneOut - music identification extension for Chrome https://bit.ly/tuneOut
-- isonode - Cardano blockchain staking pool *LAUNCHING MAY 2021*
+- isonode.io - Cardano blockchain stakepool 
 
 ### Background:
 
