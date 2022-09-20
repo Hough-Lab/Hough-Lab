@@ -6,10 +6,14 @@
 
 ## 														<center>**Full-Stack developer based in London UK**</center>
 
-### Currently working on:
+### Currently working for:
+ 
+ThisIsUndefined - A digital studio building Apps, Websites & E-stores for exciting startups & forward-thinking enterprises
 
-- tuneOut - music identification extension for Chrome https://bit.ly/tuneOut
-- isonode.io - Cardano blockchain stakepool 
+### Other work:
+
+- tuneOut - Music identification extension for Chrome https://bit.ly/tuneOut (owner)
+- void.radio - Brisol based digital radio station (lead developer)
 
 ### Background:
 
