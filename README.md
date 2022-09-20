@@ -1,5 +1,6 @@
 <p align="center">
 <img src="assets/r1.webp" alt="">
+<img src=https://64.media.tumblr.com/cfb6b80fc9d4d63fc47a112ab87697df/32154f09d09f20ee-be/s500x750/32b9dbbdcf1045076b2ea507461a973ce8310119.gifv alt=''>
 </p>
 
 #                                             <center>**Hey, I'm James** </center>
