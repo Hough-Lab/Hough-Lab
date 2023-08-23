@@ -8,11 +8,12 @@
 ## 														<center>**Full-Stack developer based in London UK**</center>
 
 ### Currently working for:
- 
-ThisIsUndefined - A digital studio building Apps, Websites & E-stores for exciting startups & forward-thinking enterprises https://thisisundefined.com
 
-### Other work:
+TBA
 
+### Past work:
+
+- ThisIsUndefined - A digital studio building Apps, Websites & E-stores for exciting startups & forward-thinking enterprises https://thisisundefined.com
 - void.radio - Bristol based digital radio station https://void.radio (designer & developer) 
 - tuneOut - Music identification extension for Chrome https://bit.ly/tuneOut (owner & developer)
 
