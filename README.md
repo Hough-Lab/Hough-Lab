@@ -1,6 +1,5 @@
 <p align="center">
 <img src="assets/r1.webp" alt="">
-<img src=https://64.media.tumblr.com/cfb6b80fc9d4d63fc47a112ab87697df/32154f09d09f20ee-be/s500x750/32b9dbbdcf1045076b2ea507461a973ce8310119.gifv alt=''>
 </p>
 
 #                                             <center>**Hey, I'm James** </center>
@@ -12,7 +11,7 @@
 TBA
 
 ### Past work:
-
+- IMMIX - Specialising in the creation of cutting-edge automated trading systems by leveraging sophisticated mathematical models and computational techniques, IMMIX are committed to pushing the boundaries of what is possible in the Web3 trading landscape.
 - ThisIsUndefined - A digital studio building Apps, Websites & E-stores for exciting startups & forward-thinking enterprises https://thisisundefined.com
 - void.radio - Bristol based digital radio station https://void.radio (designer & developer) 
 - tuneOut - Music identification extension for Chrome https://bit.ly/tuneOut (owner & developer)
