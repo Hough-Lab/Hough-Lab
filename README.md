@@ -4,7 +4,7 @@
 
 #                                             <center>**Hey, I'm James** </center>
 
-## 														<center>**Full-Stack developer based in London UK**</center>
+## 														<center>**Frontend leaning Full-Stack developer based in London UK**</center>
 
 ### Past work:
 - IMMIX - Specialising in the creation of cutting-edge automated trading systems by leveraging sophisticated mathematical models and computational techniques, IMMIX are committed to pushing the boundaries of what is possible in the Web3 trading landscape.
