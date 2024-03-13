@@ -6,6 +6,9 @@
 
 ## 														<center>**Frontend leaning Full-Stack developer based in London UK**</center>
 
+### Currently working for:
+- Thrust Carbon - IATA & BTN award-winning sustainability intelligence platform, delivering emissions reporting, reductions, & removal. https://thrustcarbon.com
+
 ### Past work:
 - IMMIX - Specialising in the creation of cutting-edge automated trading systems by leveraging sophisticated mathematical models and computational techniques, IMMIX are committed to pushing the boundaries of what is possible in the Web3 trading landscape.
 - ThisIsUndefined - A digital studio building Apps, Websites & E-stores for exciting startups & forward-thinking enterprises https://thisisundefined.com
