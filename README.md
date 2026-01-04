@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/animation_gh.wepb" alt="Header Image" width="100%">
+  <img src="assets/animation_gh.webp" alt="Header Image" width="100%">
   
   # Hey, I'm James
   
