@@ -13,7 +13,7 @@
 
 ---
 
-## 🚀 Currently Building At
+## Currently
 
 **[Thrust Carbon](https://thrustcarbon.com)** - IATA & BTN award-winning sustainability intelligence platform
 - Frontend Engineer
@@ -25,12 +25,12 @@
 - Lead Engineer
 - High-quality self-hosted streaming infrastructure with real-time audio delivery
 - Interactive 3D WebGL experiences powered by Three.js
-- 🎨 **Interactive 3D booth model** | ⚡ **High-performance streaming** | 📱 **Responsive design**
-- 🎵 **Real-time metadata** synced with live broadcasts
+- **Interactive 3D booth model** | ⚡ **High-performance streaming** | 📱 **Responsive design**
+- **Real-time metadata** synced with live broadcasts
 
 ---
 
-## 💼 Past Experience
+## Past Experience
 
 | Company | Role & Impact |
 |---------|---------------|
@@ -40,28 +40,28 @@
 
 ---
 
-## 🎯 Background & Interests
+## Background & Interests
 
 <table>
 <tr>
 <td width="50%">
   
-### 📚 Professional Background
-- 🌍 Climate Science
-- 🎵 Music Industry
-- 📻 Radio Broadcasting & Streaming
+### Professional Background
+- Climate Science
+- Music Industry
+- Radio Broadcasting & Streaming
 
 </td>
 <td width="50%">
   
-### 🎨 Personal Interests
-- 🎧 Audio Technology & DSP
-- ⛓️ Blockchain Technology
-- ⚙️ Mechanical Physics
-- 🎹 Music Production
-- ⛷️ Freeride Skiing
-- 🚵 Mountain Biking
-- 🧗 Rock Climbing
+### Personal Interests
+- Audio Technology & DSP
+- Blockchain Technology
+- Mechanical Physics
+- Music Production
+- Freeride Skiing
+- Mountain Biking
+- Rock Climbing
 
 </td>
 </tr>
@@ -69,7 +69,7 @@
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### My Toolkit
 
@@ -143,7 +143,7 @@
 
 ---
 
-## 📫 Let's Connect
+## Contact
 
 <div align="center">
   
