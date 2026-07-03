@@ -6,6 +6,8 @@
   ### Frontend-leaning Full-Stack Engineer | London, UK 🇬🇧
   
   **Specialising in Performance-Driven Web Applications at scale**
+
+  https://hxlab.dev
   
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/hough-lab/)
   
